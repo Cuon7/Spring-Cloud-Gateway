@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+#spring:
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: service1
+#          uri: http://localhost:1111
+#          predicates:
+#            - Path=/service1/**
+#
+#        - id: service2
+#          uri: http://localhost:2222
+#          predicates:
+#            - Path=/service2/**
